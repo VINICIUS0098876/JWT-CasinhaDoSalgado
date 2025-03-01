@@ -1,6 +1,6 @@
-[submodule "CRUD-TypeScript"]
+[submodule "Back-End"]
 	path = CRUD-TypeScript
 	url = https://github.com/VINICIUS0098876/CRUD-TypeScript.git
-[submodule "Front-MiniProjeto"]
+[submodule "Front-End"]
 	path = Front-MiniProjeto
 	url = https://github.com/VINICIUS0098876/Front-MiniProjeto.git
